@@ -12,7 +12,6 @@ Personal research library for quantitative finance, algorithmic trading, and inv
 |--------|-------------|------:|
 | [`academic-papers/`](academic-papers/) | Peer-reviewed / SSRN / arXiv papers — momentum, news, pairs trading, factor models, alpha signals | 66 |
 | [`textbooks/`](textbooks/) | Quant & ML textbooks — Ernest Chan, López de Prado, Kissell, Andrew Ang, Bayesian/Martingale finance, Python/ML | 84 |
-| [`research-notes/`](research-notes/) | Sell-side research & house views — BofA, JPM, Morgan Stanley, Bernstein, KKR, T. Rowe, mid-year outlooks | 66 |
 | [`alpha-factor-research/`](alpha-factor-research/) | Factor models, alpha signals, foundational SSRN papers | 20 |
 | [`worldquant-brain/`](worldquant-brain/) | WorldQuant BRAIN guides & alpha-design templates | 14 |
 | [`ai-agent-quant/`](ai-agent-quant/) | LLM/agent-driven alpha research — Alpha-GPT, AlphaAgent, automate strategy finding | 13 |
