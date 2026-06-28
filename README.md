@@ -1,4 +1,4 @@
-ป# Quant & Investment Papers Library
+# Quant & Investment Papers Library
 
 Personal research library for quantitative finance, algorithmic trading, and investment strategy.
 
